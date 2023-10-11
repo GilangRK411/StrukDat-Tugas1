@@ -11,8 +11,8 @@ struct Mahasiswa {
     int usia;
     string jeniskelamin;
     string hobi;
-    string semester;
-    string angkatan;
+    int semester;
+    int angkatan;
     string jurusan;
     string alamat;
     string tempatlahir;
